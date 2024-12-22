@@ -1,0 +1,2 @@
+# GoldTradeResponder
+wow addon
